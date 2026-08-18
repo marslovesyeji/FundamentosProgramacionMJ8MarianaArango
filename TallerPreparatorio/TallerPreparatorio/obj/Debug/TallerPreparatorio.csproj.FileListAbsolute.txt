@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MarianaAA\TallerPreparatorio\TallerPreparatorio\bin\Debug\TallerPreparatorio.exe.config
+C:\Users\B09S104est\Documents\MarianaAA\TallerPreparatorio\TallerPreparatorio\bin\Debug\TallerPreparatorio.exe
+C:\Users\B09S104est\Documents\MarianaAA\TallerPreparatorio\TallerPreparatorio\bin\Debug\TallerPreparatorio.pdb
+C:\Users\B09S104est\Documents\MarianaAA\TallerPreparatorio\TallerPreparatorio\obj\Debug\TallerPreparatorio.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MarianaAA\TallerPreparatorio\TallerPreparatorio\obj\Debug\TallerPreparatorio.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MarianaAA\TallerPreparatorio\TallerPreparatorio\obj\Debug\TallerPreparatorio.exe
+C:\Users\B09S104est\Documents\MarianaAA\TallerPreparatorio\TallerPreparatorio\obj\Debug\TallerPreparatorio.pdb
