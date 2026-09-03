@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MarianaAA\10.TareaCicloWhile\10.TareaCicloWhile\bin\Debug\10.TareaCicloWhile.exe.config
+C:\Users\B09S104est\Documents\MarianaAA\10.TareaCicloWhile\10.TareaCicloWhile\bin\Debug\10.TareaCicloWhile.exe
+C:\Users\B09S104est\Documents\MarianaAA\10.TareaCicloWhile\10.TareaCicloWhile\bin\Debug\10.TareaCicloWhile.pdb
+C:\Users\B09S104est\Documents\MarianaAA\10.TareaCicloWhile\10.TareaCicloWhile\obj\Debug\10.TareaCicloWhile.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MarianaAA\10.TareaCicloWhile\10.TareaCicloWhile\obj\Debug\10.TareaCicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MarianaAA\10.TareaCicloWhile\10.TareaCicloWhile\obj\Debug\10.TareaCicloWhile.exe
+C:\Users\B09S104est\Documents\MarianaAA\10.TareaCicloWhile\10.TareaCicloWhile\obj\Debug\10.TareaCicloWhile.pdb
